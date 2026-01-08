@@ -1,0 +1,9 @@
+{
+  "name": "ZenAI: Custom Guided Meditation",
+  "description": "A world-class meditation app that uses Gemini to generate unique, personalized meditation sessions with high-quality AI visuals, custom voiceovers, and an intelligent mindfulness coach.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
